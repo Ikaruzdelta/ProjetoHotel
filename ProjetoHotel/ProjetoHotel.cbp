@@ -32,7 +32,28 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="Cliente.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Funcionario(Principal).cpp" />
+		<Unit filename="Qblibioteca.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Quartos.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="clientes.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="funcionario.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="login.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="tela.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
