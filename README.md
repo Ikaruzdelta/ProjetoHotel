@@ -19,12 +19,22 @@ hotel.
 
 # Descrição
 
->Primeiro nós temos a tela inicial das funcionalidades que a equipe clientes
++ Primeiro nós temos a tela inicial das funcionalidades que a equipe clientes
 criou:
 
 ![header](https://user-images.githubusercontent.com/58690965/171874849-b74fafe7-f2c3-406a-a806-f54cd7ca6dee.png)
 
-> Aqui, temos as opções de navegação pelo programa: Cadastrar cliente, listar cliente,
++ Aqui, temos as opções de navegação pelo programa: Cadastrar cliente, listar cliente,
 modificar cliente e excluir cliente.
-  Seguindo em frente, o segundo passo é nos cadastrarmos um cliente, onde é pedido
++ Seguindo em frente, o segundo passo é nos cadastrarmos um cliente, onde é pedido
 uma série de dados pessoais:
+
+![Cadastro](https://user-images.githubusercontent.com/58690965/171876311-c9eb10a7-62cb-47c7-9e5f-81f410b05586.png)
+
++ Depois de cadastrar o usuário do hotel aparecerá uma mensagem de
+confirmação indicando que o cliente foi cadastrado.
++ Em outro módulo, se quisermos modificar um dado de um cliente podemos editá-lo,
+é só entrar no módulo Modificar Cliente que você terá o opção de editar qualquer informação
++ E por fim temos a função excluir, que quando um cliente terminar sua estadia
+ele será listado fora do arquivo pelo manuseador do sistema, onde será pedido
+as informaçõe do hóspede que se deseja excluir
