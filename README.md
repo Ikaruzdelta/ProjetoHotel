@@ -16,3 +16,15 @@ dados do clientes e logo depois regravar esses dados específicos de volta no ar
 fim, como já foi citado acima temos a função excluir que retira os dados do respectivo cliente
 do arquivo, assim gerando um novo arquivo, só com os usuários que ainda permanecem no
 hotel.
+
+# Descrição
+
+>Primeiro nós temos a tela inicial das funcionalidades que a equipe clientes
+criou:
+
+![header](https://user-images.githubusercontent.com/58690965/171874849-b74fafe7-f2c3-406a-a806-f54cd7ca6dee.png)
+
+> Aqui, temos as opções de navegação pelo programa: Cadastrar cliente, listar cliente,
+modificar cliente e excluir cliente.
+  Seguindo em frente, o segundo passo é nos cadastrarmos um cliente, onde é pedido
+uma série de dados pessoais:
